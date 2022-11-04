@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, this is Ayhan👋 
+
+###Ayhan,
+
+##had a Career shift,
+##did start his new journey in April 2022,
+##is Java self-learner,
+##is a Passionate and Patient life-time learner.
+
 
 <!--
 **ayhan-unlu/ayhan-unlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
