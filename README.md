@@ -1,11 +1,11 @@
 ### Hi there, this is Ayhan👋 
 
-###Ayhan,
+### Ayhan,
 
-##had a Career shift,
-##did start his new journey in April 2022,
-##is Java self-learner,
-##is a Passionate and Patient life-time learner.
+## had a Career shift,
+## did start his new journey in April 2022,
+## is Java self-learner,
+## is a Passionate and Patient life-time learner.
 
 
 <!--
