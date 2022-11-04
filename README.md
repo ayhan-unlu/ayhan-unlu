@@ -2,9 +2,8 @@
 
 ### Ayhan,
 
-## had a Career shift,
-## did start his new journey in April 2022,
-## is Java self-learner,
+## had a Career shift in April 2022,
+## did start his new journey with self-learning Java,
 ## is a Passionate and Patient life-time learner.
 
 
