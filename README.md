@@ -4,10 +4,10 @@
 ### Ayhan,
 
 ### - had a Career shift in April 2022,
-### - did start his new journey with self-learning Java,
+### - did start his new journey with self-learning Java, 
+### - got great support from both [Patika.dev](https://www.patika.dev/tr) and [Kodluyoruz.org](https://kodluyoruz.org/tr/kodluyoruz/)
 ### - is a Passionate and Patient life-time learner.
 ### - can be reached at ayhan-unlu@hotmail.com
-
 
 
 <!--
