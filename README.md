@@ -29,7 +29,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayhan-unlu&show_icons=true&locale=en&layout=compact" alt="ayhan-unlu" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayhan-unlu&show_icons=true&locale=en&layout=compact" alt="ayhan-unlu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayhan-unlu&show_icons=true&locale=en" alt="ayhan-unlu" /></p>
 
