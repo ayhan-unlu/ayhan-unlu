@@ -4,7 +4,7 @@
 <h3 align="left">Ayhan, 
   <br />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- had a Career shift in April 2022, 
   <br />
-  <br />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- since then have started his new journey with self-learning Java,
+  <br />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- since then started his new journey with self-learning Java,
  <br />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- got great support from both 
   <a href="https://app.patika.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/ayhan-unlu/ayhan-unlu/main/patikaLogoSVG.svg" alt="https://app.patika.dev/" height="100" width="100" /></a> 
   and 
