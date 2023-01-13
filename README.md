@@ -13,7 +13,7 @@
   <br>
   <br>
 
-- 👯 I’m currently on Practicum [ebebek-java-qa-sap-spartacus](https://www.patika.dev/bootcamp/ebebek-java-qa-practicum) as of 2022 November
+- 👯 I’m currently learning on [JAVA 102 PATH](https://app.patika.dev/courses/java-102) as of 2023 January
 
 - 📫 How to reach me **ayhan-unlu@hotmail.com**
 
