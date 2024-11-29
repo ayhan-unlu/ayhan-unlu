@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ayhan Unlu</h1>
 
 <h3 align="left">Ayhan, 
-  <br />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- had a Career shift in April 2022, 
+  <br />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- got retired in April 2023, 
   <br />
   <br />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- since then started his new journey with self-learning Java,
  <br />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- got great support from both 
@@ -13,7 +13,7 @@
   <br>
   <br>
 
-- 👯 I’m currently learning on [JAVA 102 PATH](https://app.patika.dev/courses/java-102) as of 2023 January
+- 👯 I’m currently learning on [JAVA 102 PATH](https://app.patika.dev/courses/java-102)
 
 - 📫 How to reach me **ayhan-unlu@hotmail.com**
 
