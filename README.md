@@ -13,7 +13,7 @@
   <br>
   <br>
 
-- 👯 I’m currently learning on [Advanced Java Backend Path](https://academy.patika.dev/paths/ileri-seviye-java-ile-backend-web-development-patikasi)
+- 👯 I’m currently learning on [Advanced Java Backend Web Development Path](https://academy.patika.dev/paths/ileri-seviye-java-ile-backend-web-development-patikasi)
 
 - 📫 How to reach me **ayhan-unlu@hotmail.com**
 
