@@ -26,7 +26,7 @@
 <h3 align="left">Certifications:</h3>
 <p align="left">
   - <a href="https://academy.patika.dev/certificates/YFuiUxwJ" target="_blank">Patika Java Certificate</a> (Completed: 12/2025)
-<br>- Skills: Java, OOP, Spring Boot, REST APIs, JDBC
+<br>- Skills: Java, OOP, Spring Boot, REST APIs, JDBC.
 
 </p>
 <h3 align="left">Connect with me:</h3>
