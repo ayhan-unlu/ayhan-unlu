@@ -22,9 +22,7 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-### Languages & Tools
 
-### Languages & Tools
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 <br>
