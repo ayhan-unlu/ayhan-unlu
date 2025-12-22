@@ -45,4 +45,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayhan-unlu&show_icons=true&locale=en&layout=compact" alt="ayhan-unlu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayhan-unlu&show_icons=true&locale=en" alt="ayhan-unlu" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayhan-unlu)](https://git.io/streak-stats)
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ayhan-unlu&theme=dark&hide_border=true)
