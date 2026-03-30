@@ -19,6 +19,14 @@
 
 - finished [Patika.dev Advanced Java Backend Web Development Path](https://academy.patika.dev/paths/ileri-seviye-java-ile-backend-web-development-patikasi) as of 22nd December 2025.
 <br>
+  <br>
+
+- finished [Patika.dev AI4Future with IBM SkillsBuild Artificial Intelligence Fundamentals Training](https://www.credly.com/badges/d891ea4f-04e1-4587-8d56-c0d78e026cdd/public_url) as of 16th February 2026.
+<br>
+  <br>
+
+- finished [Rise In & Patika.dev KOD:2026 – Kodla, YapayZeka Zincirlerini Kır (Code:2026 - Code , Break AI Chains)](https://files.risein.com/certificates/Jexs13al) as of 20th March 2026.
+<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
