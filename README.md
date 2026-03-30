@@ -17,7 +17,7 @@
   <br>
   <br>
 
-- finished [Patika.dev Advanced Java Backend Web Development Path](https://academy.patika.dev/paths/ileri-seviye-java-ile-backend-web-development-patikasi) as of 22nd December 2025.
+- finished [Patika.dev Advanced Java Backend Web Development Path](https://academy.patika.dev/certificates/YFuiUxwJ) as of 22nd December 2025.
 <br>
   <br>
 
@@ -40,10 +40,7 @@
 <br>
 
 [//]: # (<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>)
-<h3 align="left">Certifications:</h3>
-<p align="left">
-  - <a href="https://academy.patika.dev/certificates/YFuiUxwJ" target="_blank">Patika Java Certificate</a> (Completed: 12/2025)
-<br>- Skills: Java, OOP, Spring Boot, REST APIs, JDBC.
+- Skills: Java, OOP, Spring Boot, REST APIs, JDBC.
 
 </p>
 <h3 align="left">Connect with me:</h3>
